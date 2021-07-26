@@ -1,0 +1,88 @@
+<style>
+
+.tg  
+{
+  border-collapse:collapse;
+  border-spacing:0;
+}
+.tg td{
+  border-color:black;
+  border-style:solid;
+  border-width:1px;
+  font-family:Arial, sans-serif;
+  font-size:14px;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+}
+.tg th{
+  border-color:black;
+  border-style:solid;
+  border-width:1px;
+  font-family:Arial, sans-serif;
+  font-size:14px;
+  font-weight:normal;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+}
+.tg .tg-nrix{
+  text-align:center;
+  vertical-align:middle
+}
+.rightarrow{
+  display: block;
+  margin-bottom: auto;
+  margin-left: auto;
+}
+
+.country {
+  display: block;
+  font-size: 8px;
+  margin-bottom: -8.5px;
+}
+
+.tg-nrix .Rare { /* 파딱 */
+  font-weight:bold;
+  color:skyblue;
+}
+
+.tg-nrix .Rare1 { /* 포틀랜드 */
+  font-weight:bold;
+  color:skyblue;
+}
+
+.tg-nrix .Rare2 { /* 쇼호 */
+  font-weight:bold;
+  color:skyblue;
+}
+
+
+.tg-nrix .Elite1 { /* 보딱 헬레나 */
+  font-weight:bold;
+  color:purple;
+}
+
+.tg-nrix .Elite2 { /* 보딱 새러토가 */
+  font-weight:bold;
+  color:purple;
+}
+
+.tg-nrix .Elite { /* 보딱 */
+  font-weight:bold;
+  color:purple;
+}
+
+.tg-nrix .srare { /* 보딱 */
+  font-weight:bold;
+  color:yellow;
+}
+.rate {
+  font-weight: bold;
+  font-size: 60px;
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
+
+
+</style>
